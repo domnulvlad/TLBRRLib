@@ -1,0 +1,28 @@
+###################################
+# Syntax Coloring Map For TLBRRLib
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+TLBRRLib	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+begin	KEYWORD2
+end	KEYWORD2
+
+executeInterruptENA	KEYWORD2
+executeInterruptCLK	KEYWORD2
+
+hasData	KEYWORD2
+requestData	KEYWORD2
+getBuffer	KEYWORD2
+continueReceiving	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
